@@ -24,4 +24,6 @@
  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/Google%20Cloud-%234285f4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
