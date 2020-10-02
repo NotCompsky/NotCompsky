@@ -1,8 +1,8 @@
 ### Description
 
 * Maths student
-* Most comfortable with modern C++, Python, and SQL, but can work with Shell, Golang, and frontend JavaScript.
-* In descending order of experience, I have some (limited) knowledge of Flask, NumPy, Unreal Engine 4, Ren'Py, jQuery, nginx
+* Most comfortable with modern C++, Python, and SQL, but can work with Shell, Golang, and modern frontend JavaScript.
+* In descending order of experience, I have some (limited) knowledge of Flask, NumPy, Unreal Engine 4, Ren'Py, jQuery, nginx, and Java.
 * My hobby code aims for maximum abstraction and runtime performance for aesthetic, not pragmatic, reasons.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotCompsky&show_icons=true&hide_border=true)
@@ -16,7 +16,6 @@
  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
  <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
  <br>
  <img src="https://img.shields.io/badge/linux-%23ff5500.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
  <img src="https://img.shields.io/badge/windows%2010-%230078d6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
